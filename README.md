@@ -4,7 +4,7 @@
 
 Let's start by [downloading pfSense community edition here](https://www.pfsense.org/download/).
 
-If you need help installing the VM on vSphere you can look at my [vSphere and vCenter Set Up lab](https://github.com/AustinGettel/vSphere-and-vCenter-setup/blob/main/README.md).
+If you need help installing the VM on vSphere you can look at my [vSphere and vCenter Set Up lab](https://github.com/AustinGettel/vSphere-and-vCenter-setup/blob/main/README.md#ubuntu-desktop-vm).
 
 Before installing, we need to to do some basic networking set up to ensure pfSense will work. We need 2 virtual switchs, 1 for WAN and 1 for LAN; then we'll need two port groups, also 1 for WAN and 1 for LAN.
 
